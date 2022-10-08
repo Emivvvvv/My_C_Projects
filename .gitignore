@@ -41,6 +41,11 @@
 *.su
 *.idb
 *.pdb
+*.iml
+*.name
+*.xml
+*.DS_Store
+*.gitignore
 
 # Kernel Module Compile Results
 *.mod*
