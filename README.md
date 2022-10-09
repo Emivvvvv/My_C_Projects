@@ -1,1 +1,3 @@
-# My_C_Projects
+# My C Projects
+
+The 70s called, they want their coding language back
