@@ -1,0 +1,6 @@
+amiodarone Dose 1: 300 mg IV push;Dose 2: 150 mg IV push;Infusion 1: 1mg/min for 6 hrs;Infusion 2: 0.5 mg/min for 18 hrs;
+adenosine Dose 1: 6 mg rapid IV push;Dose 2: 12 mg rapid IV push;
+atropine 0.5 mg IV push every 3-5 min;max 3 mg;
+dopamine Infusion 2-10 mcg/kg/min;
+epinephrine 1 mg IV push every 3-5 min;Infusion: 2-10 mcg/min magnesium Infusion: 1-2g over 5 to 20 min;
+vasopressin 40 units IV push;
