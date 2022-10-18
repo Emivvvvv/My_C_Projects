@@ -1,5 +1,5 @@
 /*
- *  Programmer: Emirhan TALA             Date completed: Oct 17, 2022
+ *  Programmer: Emirhan TALA             Date completed: Oct 18, 2022
  *
  * A recursive blob checker of a grid.
  */
