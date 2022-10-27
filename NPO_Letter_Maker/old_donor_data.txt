@@ -1,0 +1,104 @@
+Adams
+John
+2707 Cancun Ct
+0
+Grand Junction
+CO
+81506
+1200.00
+Barnes
+Harry
+1010 S 80th St
+0
+Denver
+CO
+80235
+50.00
+Carlson
+Patricia
+410 S Broadway
+Apt 4
+Denver
+CO
+80234
+1350.00
+Decker
+Diane
+220 S St James Blvd
+0
+Evansville
+IN
+47714
+430.00
+Evans
+Charles
+512 S Second Ave
+Unit 14
+Mobile
+AL
+36617
+25.00
+Forrester
+Eric
+123 5th Ave
+0
+New York
+NY
+02721
+1250.00
+Geraldton
+Mark
+25 E Hwy 50
+Suite 59
+Rochester
+NY
+14607
+100.00
+Golden
+Daniel
+801 Grand Ave
+0
+Springfield
+IL
+62701
+650.00
+Howard
+Marla
+2011 Butterfly Ct
+0
+Kansas City
+KS
+66118
+3500.00
+John
+2707
+Cancun Ct
+0
+Grand Junction
+CO
+81506
+1200.00
+McIntyre
+Osborne
+121 E First St
+Apt 2
+Cumberland
+MD
+21502
+5000.00
+Nelson
+Jane
+241 E Fourth St
+0
+Frisco
+CO
+80433
+650.00
+Ryan
+Myrtle
+501 S Marlin Ave
+Apt 110
+Bradenton
+FL
+34205
+200.00
